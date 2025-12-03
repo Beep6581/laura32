@@ -1,0 +1,20 @@
+CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S-2.0)
+
+Copyright (c) <YEAR> <YOUR NAME>
+
+This hardware design is licensed under the CERN-OHL-S v2.
+
+You may copy, modify, manufacture and distribute this hardware, provided you
+comply with the terms of the CERN-OHL-S v2. In particular, if you distribute
+a product or modified version based on this hardware, you must:
+
+- Provide the complete Source (design files) of your version.
+- Retain all notices and attribution.
+- License the entire work under CERN-OHL-S v2.
+
+This hardware is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY,
+including of merchantability, satisfactory quality and fitness for a
+particular purpose.
+
+For the complete licence text, see:
+https://ohwr.org/cern_ohl_s_v2.txt

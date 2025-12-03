@@ -1,0 +1,48 @@
+# General
+*.swp
+*.swo
+*~
+*.log
+*.tmp
+*.bak
+
+# Build directories
+build/
+cmake-build-*/
+out/
+dist/
+*.o
+*.obj
+*.elf
+*.map
+*.bin
+*.hex
+
+# IDE/project settings
+.vscode/
+.idea/
+*.user
+*.workspace
+*.code-workspace
+
+# KiCad 9
+*.kicad_prl
+*.kicad_sch-bak
+*-backups/
+fp-info-cache
+sym-lib-table-bak
+fp-lib-table-bak
+
+# FreeCAD
+*.FCStd1
+*.FCBak
+*.fcstd1
+*.fcbak
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Firmware build outputs (generic CMake)
+firmware/build/
